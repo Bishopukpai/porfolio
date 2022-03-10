@@ -1,0 +1,29 @@
+.about-image{
+    height: 400px;
+    width: 400px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.fourcard{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    padding-left: 500px;
+}
+.calculator{
+    display:flex;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    padding-left: 500px;
+}
+.eCommerce{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    padding:70px 500px;
+    
+}
